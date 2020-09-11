@@ -1,5 +1,5 @@
 ---
-title: "Whoami"
+title: "whoami"
 date: 2020-09-11T10:39:25+05:30
 draft: false
 ---
