@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 
 vared -p "Enter commit message: " -c message
 
