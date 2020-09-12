@@ -1,4 +1,4 @@
-baseurl = "https://tech-mithun.github.io"
+baseurl = "https://mithun.tech"
 title = "Mithun"
 
 theme = "hugo-coder"
