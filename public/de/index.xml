@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mithun</title>
+    <link>https://mithun.tech/de/</link>
+    <description>Recent content on Mithun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://mithun.tech/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wer bin ich?</title>
+      <link>https://mithun.tech/de/whoami/</link>
+      <pubDate>Fri, 11 Sep 2020 10:39:20 +0530</pubDate>
+      
+      <guid>https://mithun.tech/de/whoami/</guid>
+      <description>&amp;gt;&amp;gt;&amp;gt; print(&#39;Hallo Welt!&#39;)
+Ich bin Mithun, ein junger, frischer Student und Pythonist. Ich bin der alleinige Eigentümer und Schöpfer dieser persönliche Webseite.
+Eine kurze Info über mich: Ich wohne derzeit in 13.0827° N, 80.2707° E.
+Ich sehe mich als leidenschaftliche Person, die niemals beim ersten Anzeichen von Schwierigkeiten aufgibt.
+Ich bin sehr offen für einen kleinen Einblick in neue Erfahrungen, besonders wenn sie mir etwas Neues und Produktives beibringen könnten.</description>
+    </item>
+    
+    <item>
+      <title>Projekte</title>
+      <link>https://mithun.tech/de/projects/</link>
+      <pubDate>Fri, 11 Sep 2020 10:39:05 +0530</pubDate>
+      
+      <guid>https://mithun.tech/de/projects/</guid>
+      <description>Kommt bald! </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://mithun.tech/de/contact/</link>
+      <pubDate>Fri, 11 Sep 2020 10:38:42 +0530</pubDate>
+      
+      <guid>https://mithun.tech/de/contact/</guid>
+      <description>Soziale Netzwerke  - https://linkedin.com/in/k-mithun/ - https://xing.com/profile/Mithun_K/cv - https://github.com/Mithun-windows-linux - https://medium.com/@k.mithun  Email import codecs print(codecs.encode(&amp;#39;x.zvguha@bhgybbx.pbz&amp;#39;, &amp;#39;rot_13&amp;#39;)) </description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://mithun.tech/de/blogs/</link>
+      <pubDate>Fri, 11 Sep 2020 10:38:25 +0530</pubDate>
+      
+      <guid>https://mithun.tech/de/blogs/</guid>
+      <description>Kommt bald! </description>
+    </item>
+    
+  </channel>
+</rss>
