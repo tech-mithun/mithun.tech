@@ -128,7 +128,7 @@ disqusShortname = "yourdiscussshortname"
 
         [languages.de.params]
             author = "Mithun K"
-            info = "CS Student · Pythonist"
+            info = "Informatik Student · Pythonist"
             description = "Persönliche Webseite"
             keywords = "coding, personal"
             footercontent = "Die Verschmutzung ist sehr niedrig, dass ich in der Cloud gespeicherte Daten sehen kann."
