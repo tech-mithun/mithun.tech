@@ -1,5 +1,5 @@
 baseurl = "https://mithun.tech"
-title = "Mithun"
+title = "Mithun K"
 
 theme = "hugo-coder"
 
@@ -17,8 +17,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Mithun K"
-    description = "Mithun's portfolio website"
-    keywords = "coding, portfolio, personal"
+    description = "Personal website of Mithun K"
+    keywords = "coding, personal"
     info = "CS Student · Pythonist"
     avatarurl = "img/Mithun.jpeg"
     #gravatar = "john.doe@example.com"
@@ -129,8 +129,8 @@ disqusShortname = "yourdiscussshortname"
         [languages.de.params]
             author = "Mithun K"
             info = "CS Student · Pythonist"
-            description = "CS Student · Pythonist"
-            keywords = "coding, portfolio, personal"
+            description = "Persönliche Webseite"
+            keywords = "coding, personal"
             footercontent = "Die Verschmutzung ist sehr niedrig, dass ich in der Cloud gespeicherte Daten sehen kann."
 
         [languages.de.menu]
