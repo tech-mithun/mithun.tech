@@ -6,7 +6,7 @@ draft: false
 
 `>>> print('Hallo Welt!')`  
 
-Ich bin Mithun, ein junger, frischer Student und Pythonist. Ich bin der alleinige Eigentümer und Schöpfer dieser persönliche Webseite.
+Ich bin Mithun, ein junger, frischer Student und Pythonist. Ich bin der alleinige Entwickler dieser persönliche Webseite.
   
 
 Eine kurze Info über mich: Ich wohne derzeit in 13.0827° N, 80.2707° E.
