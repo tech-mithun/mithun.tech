@@ -4,7 +4,7 @@ date: 2020-09-11T10:38:42+05:30
 draft: false
 ---
 
-## Soziale Netzwerke
+## Professionelle Netzwerke
 
 - ![LinkedIn](/img/linkedin.jpg) - https://linkedin.com/in/k-mithun/  
 - ![Xing](/img/xing.png) - https://xing.com/profile/Mithun_K/cv
